@@ -1,0 +1,5 @@
+user_service/venv
+post_service/venv
+comment_service/venv
+post_service/__pycache__
+.vscode
